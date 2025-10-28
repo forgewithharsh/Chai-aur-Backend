@@ -1,0 +1,28 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel - youtube",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/forgewithharsh/Chai-aur-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/forgewithharsh/Chai-aur-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forgewithharsh/Chai-aur-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Harsh Guleria",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
